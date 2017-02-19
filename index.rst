@@ -1,7 +1,8 @@
 Document/Project Title
 ##########################################
+.. |TTTW| replace:: Tools and Technologies for Technical Writers
 
-`CNN Website <http://cnn.com/>`_
+"The name of this class is |TTTW|".
 
 Each Sphinx project has an index page, as well as index pages for parts of the document, which align to subfolders.
 
