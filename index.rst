@@ -1,5 +1,28 @@
+        .. image:: path/file-name
+          :width: 400
+          :alt" Image description
+
+When your work is ready:
+
+
+.. note:: You might find this interesting.
+
+.. caution:: Don't do this.
+
+
+.. only:: Administrators
+
+  This paragraph will be shown only in the Administrator's Guide.
+
+.. only:: End Users
+
+  This paragraph will be shown only in the User's Guide.
+
 Document/Project Title
 ##########################################
+.. |TTTW| replace:: Tools and Technologies for Technical Writers
+
+"The name of this class is |TTTW|".
 
 Each Sphinx project has an index page, as well as index pages for parts of the document, which align to subfolders.
 

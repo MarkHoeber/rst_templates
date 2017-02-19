@@ -11,3 +11,18 @@ You can use conditions in RST text. Then using Sphinx, pass the condition name i
 .. only:: Condition C
 
   Add indented content to be included only in Condition C documentation.
+
+
+.. list-table::
+   :widths: 25 25 50
+   :header-rows: 1
+
+   * - Heading row 1, column 1
+     - Heading row 1, column 2
+     - Heading row 1, column 3
+   * - Row 2, column 1
+     - Row 2, column 2
+     - Row 2, column 3
+   * - Row 3, column 1
+     - Row 3, column 2
+     - Row 3, column 3
