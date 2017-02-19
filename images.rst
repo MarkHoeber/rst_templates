@@ -1,3 +1,12 @@
+#. Step one.
+
+   Text under step one.
+
+#. Step two.
+
+#. Step three.
+
+
 Use substitutions for images. Don't add image references directly to topics.
 
 Image substitutions are stored in the file ``shared/image_substitutions.rst``.
