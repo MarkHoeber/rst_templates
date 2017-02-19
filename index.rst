@@ -1,3 +1,8 @@
+.. note:: You might find this interesting.
+
+.. caution:: Don't do this.
+
+
 .. only:: Administrators
 
   This paragraph will be shown only in the Administrator's Guide.
