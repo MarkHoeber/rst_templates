@@ -1,3 +1,13 @@
+.. code-block:: HTML
+
+  <html>
+     <head/>
+     <body>
+
+     </body>
+  </html>
+
+
 #. Step one.
 
    Text under step one.
