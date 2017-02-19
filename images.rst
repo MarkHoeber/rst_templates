@@ -1,3 +1,5 @@
+`CNN Website <http://cnn.com/>`_
+
 .. code-block:: HTML
 
   <html>
