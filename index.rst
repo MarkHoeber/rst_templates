@@ -1,3 +1,10 @@
+        .. image:: path/file-name
+          :width: 400
+          :alt" Image description
+
+When your work is ready:
+
+
 .. note:: You might find this interesting.
 
 .. caution:: Don't do this.
