@@ -3,7 +3,13 @@ Use the following codeblocks for example code.
 By specifying the type of code, you enable syntax
 highlighting in the HTML output in Sphinx.
 
+##############################################
+Heading 1
+##############################################
 
+****************************************
+Heading 2
+****************************************
 
 .. code-block:: JSON
 
