@@ -37,4 +37,4 @@ highlighting in the HTML output in Sphinx.
 
 .. code-block:: HTML
 
-    <p>I don't understand ny of this!!</p>
+    <p>I don't understand any of this!!</p>
