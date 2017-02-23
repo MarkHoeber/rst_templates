@@ -122,6 +122,8 @@ Bacterial stocks are typically stored in a glycerol solution in the -80°C freez
   :width: 400
   :alt" streaking for single colony
 
+**Figure 2** How to streak bacteria onto an agar plate to achieve single colonies
+
     5. Gently spread the bacteria over a section of the plate, as shown in Figure 2, to create streak #1.
     6. Using a freshly sterilized loop, drag through streak #1 and spread the bacteria over a second section of the plate, to create streak # 2.
     7. Using a freshly sterilized loop, drag through streak #2 and spread the bacteria over the last section of the plate, to create streak # 3.
