@@ -16,6 +16,18 @@ A plasmid is a double-stranded circular piece of DNA that is separate from the c
 
 Plasmids are used in molecular laboratories when studying or manipulating genes, using specifically engineered plasmids, commonly referred to as vectors.
 
-.. image:: Plasmid_Map.png
+.. image::
   :width: 400
   :alt" Image description
+
+**Figure 1** Basic plasmid map
+
+There are thousands of different types of plasmids, but a basic structure is illustrated here. Some essential compounds of a plasmid are:
+
+* *Inserted gene* -  a gene of interest, or part of a gene, that is inserted into the plasmid.
+
+* *Origin of replication* - a small, specific sequence where DNA replication begins.
+
+* *Antibiotic resistance gene* - a gene that produces a protein that confers upon the bacteria, resistance to a particular antibiotic.
+
+* *Promoter* - a sequence of DNA that drives the transcription of the inserted gene 
