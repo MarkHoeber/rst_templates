@@ -120,7 +120,7 @@ Bacterial stocks are typically stored in a glycerol solution in the -80°C freez
 
 .. image:: https://github.com/JoanneGibson/rst_templates/blob/master/streaking%20for%20a%20single%20colony.png
   :width: 400
-  :alt" streaking for single colony
+  :alt: streaking for single colony
 
 **Figure 2** How to streak bacteria onto an agar plate to achieve single colonies
 
