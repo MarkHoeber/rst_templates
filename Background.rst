@@ -16,7 +16,7 @@ A plasmid is a double-stranded circular piece of DNA that is separate from the c
 
 Plasmids are used in molecular laboratories when studying or manipulating genes, using specifically engineered plasmids, commonly referred to as vectors.
 
-.. image::
+.. image:: https://github.com/JoanneGibson/rst_templates/blob/master/Plasmid_Map.png
   :width: 400
   :alt: Image description
 
