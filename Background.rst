@@ -18,7 +18,7 @@ Plasmids are used in molecular laboratories when studying or manipulating genes,
 
 .. image::
   :width: 400
-  :alt" Image description
+  :alt: Image description
 
 **Figure 1** Basic plasmid map
 
