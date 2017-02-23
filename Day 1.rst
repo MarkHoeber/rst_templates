@@ -13,21 +13,19 @@ The following protocols require the use of LB and LB agar plates, both with and 
 
 **Table 1** Reagents for making LB and LB agar plates
 
-..list-table::
-:widths: 25 25 50
-:header-rows: 1
+.. list-table::
+   :widths: 25 25 50
+   :header-rows: 1
 
-*- Heading row 1, column 1
- - Heading row 1, column 2
- - Heading row 1, column 3
-*- Row 2, column 1
- - Row 2, column 2
- - Row 2, column 3
-*- Row 3, column 1
- - Row 3, column 2
- - Row 3, column 3
-
-.. include:: ../includes.txt
+   * - LB
+     - LB agar plates
+     - LB agar plates+antibiotic
+   * - 5g NaCl
+     - 5g NaCl
+     - 5g NaCl
+   * - 5g tryptone
+     - 5g tryptone
+     - 5g tryptone
 
 *Do not add the antibiotic until after autoclaving and cooling to 55 degrees Celsius.
 
