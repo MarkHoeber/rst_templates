@@ -30,4 +30,4 @@ There are thousands of different types of plasmids, but a basic structure is ill
 
 * *Antibiotic resistance gene* - a gene that produces a protein that confers upon the bacteria, resistance to a particular antibiotic.
 
-* *Promoter* - a sequence of DNA that drives the transcription of the inserted gene 
+* *Promoter* - a sequence of DNA that drives the transcription of the inserted gene. The promoter will determine which cell types the gene is expressed in, for example, bacterial, mammalian or yeast.
