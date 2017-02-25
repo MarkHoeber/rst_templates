@@ -2,8 +2,8 @@ Use this template to start a new topic
 
 .. _Heading 1 label:
 
-Topic Title
-###########
+Calibrating a Sensor for Temperature
+######################################
 
 .. include:: ../../shared/utils/page_toc.txt
 
