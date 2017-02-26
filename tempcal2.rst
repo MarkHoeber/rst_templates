@@ -6,7 +6,7 @@ Procedure
     1. Set up the test station.
 ********************************
 
-        a) Turn on the temperature controller.  Select the temperature according to the chart below.
+        a) Turn on the temperature controller.  Select the temperature according to the chart under Equipment.
              
         #) Place about 300 milliliters and the stir bar into the beaker.
 
