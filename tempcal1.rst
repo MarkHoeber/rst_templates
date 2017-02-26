@@ -24,12 +24,12 @@ Equipment
     * - Sensor Part Number
       - Target Temperature
     * - LT5001
-      - 20.0degC
+      - 20.0 degC
     * - LT5001
-      - 25.0degC
+      - 25.0 degC
     * - MD8001
-      - 37.0degC
+      - 37.0 degC
     * - CP9001
-      - 60.0degC
+      - 60.0 degC
       
 
