@@ -39,47 +39,4 @@ Procedure
         #) Record the temperature and percent humidity of the laboratory.  This data is found on the weather station set up on the chemical bench.
 
 
-****************************
-3. Perform the calibration.
-****************************
-
-        a) Record the temperature displayed by the reference temperature system.
-
-        #) Record the temperature displayed by the new sensor.  The worksheet returns the calculated temperature additive for the unit under test.
-
-        #) Program the calculated additive into the meter.
-
-***************************
-4. Verify the calibration.
-***************************
-
-        a) In the "After" section of the worksheet, record the temperatures displayed by both temperature systems.  The temperatures must agree within 0.05 degree Celsius to pass calibration.  If the performance does not pass, repeat the calibration steps.
-
-*****************************
-5. Document the calibration.
-*****************************
-
-        a) Write on the calibration tag the date, sensor serial number, and new temperature additive.
-
-        #) Attach the tag to the unit under test.
-
-        #) Initial and date the worksheet.
-
-        #) Print a copy of the worksheet.
-
-*****************************************************************************
-6.  Deliver the paper copy and the tagged sensor to the Quality Department.
-*****************************************************************************
-
-***************************
-7.  Clean up the work area.
-***************************
-
-        a) Pour the water from the beaker into the laboratory sink.
-
-        #) Rinse the beaker and stir bar with clean water and set them on the drying rack over the sink.
-
-        #) Return all other equipment to the proper storage area.
-
-
 
