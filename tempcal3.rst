@@ -23,5 +23,13 @@
         #) Rinse the beaker and stir bar with clean water and set them on the drying rack over the sink.
 
         #) Return all other equipment to the proper storage area.
+        
 
+*******************************************
+Additional Resources
+*******************************************
+
+Theory of Temperature Measurement
+--------------------------------------
+Many measurements made in solutions in thelaboratory, such as pH and conductivity, rely on correct temperature inputs in order to calculate the measurements accurately.  Most temperature measurements in such devices are based upon measured resistance across specific metal elements.  A typical example is platinum metal.  In platinum, 1000 ohms corresponds to 0 degC.  As the temperature that the platinum is exposed to rises, so does the metal's resistance. The resistance-to-temperature relationship has been well documented.  For more detail, see.
 
