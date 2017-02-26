@@ -7,10 +7,7 @@ Procedure
 ********************************
 
         a) Turn on the temperature controller.  Select the temperature according to the chart below.
-
-
-
-
+             
         #) Place about 300 milliliters and the stir bar into the beaker.
 
         #) Place the beaker on the stir plate.
