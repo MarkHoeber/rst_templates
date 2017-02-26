@@ -13,4 +13,23 @@ Equipment
  * Reduced organic (RO) water
  * New sensor to calibrate and a compatible reference meter
  * Calibration tag
+ 
+ 
+ Select temperature based upon the part number of the sensor undergoing calibration.
+ 
+ .. list-table::
+    :widths: 50 50
+    :header-rows: 1
+    
+    * - Sensor Part Number
+      - Target Temperature
+    * - LT5001
+      - 20.0degC
+    * - LT5001
+      - 25.0degC
+    * - MD8001
+      - 37.0degC
+    * - CP9001
+      - 60.0degC
+      
 
