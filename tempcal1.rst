@@ -25,7 +25,7 @@ Equipment
       - Target Temperature
     * - LT5001
       - 20.0 degC
-    * - LT5001
+    * - LT5002
       - 25.0 degC
     * - MD8001
       - 37.0 degC
