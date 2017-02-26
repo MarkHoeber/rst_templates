@@ -55,5 +55,5 @@ Procedure
 
         a) In the "After" section of the worksheet, record the temperatures displayed by both temperature systems.  The temperatures must agree within 0.05 degrees Celsius to pass calibration.  If the performance does not pass, repeat the calibration steps.
         
-.. warning::
+.. caution::
     If a second try is necessary, be sure to return the temperature additive for the unit under test back to 0.0000 ohms, otherwise the calculation in the worksheet will be incorrect.
