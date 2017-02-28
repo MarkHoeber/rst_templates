@@ -20,7 +20,7 @@ Plasmids are used in molecular laboratories when studying or manipulating genes,
   :width: 400
   :alt: Image description
 
-**Figure 1** Basic plasmid map (`Addgene website Website <http://blog.addgene.org/plasmids-101-what-is-a-plasmid>`_)
+**Figure 1** Basic plasmid map (`Addgene website <http://blog.addgene.org/plasmids-101-what-is-a-plasmid>`_)
 
 There are thousands of different types of plasmids, but a basic structure is illustrated here. Some essential compounds of a plasmid are:
 
