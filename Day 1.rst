@@ -128,4 +128,8 @@ Bacterial stocks are typically stored in a glycerol solution in the -80°C freez
 7. Using a freshly sterilized loop, drag through streak #2 and spread the bacteria over the last section of the plate, to create streak # 3.
 8. Incubate the plate with the newly streaked bacteria overnight (12-18 hours) at 37°C.
 
+.. only:: End Users
+
+  This paragraph will be shown only in the User's Guide.
+  
 *Invert the plates, so that if water condensation occurs, the water will collect on the plastic lid, not on the agar.*
