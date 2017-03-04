@@ -23,5 +23,9 @@ A = 3.9083 E-3
 B = -5.775 E-7
 
 
-For more detail, see these articles at 'Thermometrics <http://www.thermometricscorp.com/pt1000>' and at 'Wikipedia <https://en.wikiedia.org/wiki/Resistance_thermometer>'.
+For more detail, see these articles at 'Thermometrics'_  and at 'Wikipedia'_ .
+
+.. _Thermomtrics: http://www.thermometricscorp.com/pt1000
+
+.. _Wikipedia: https://en.wikiedia.org/wiki/Resistance_thermometer
 
