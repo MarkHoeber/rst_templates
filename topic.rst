@@ -1,9 +1,8 @@
-Use this template to start a new topic
 
 .. _Heading 1 label:
 
-Topic Title
-###########
+Calibrating a Sensor for Temperature
+######################################
 
 .. include:: ../../shared/utils/page_toc.txt
 
@@ -12,15 +11,22 @@ If topic has multiple sections, use page-toc.txt utility ^^. Otherwise remove.
 Only add text under Heading 1 if there are no subsections
 
 
-What is ?
+Equipment
 ***********
 
-High level conceptual information (Heading 2).
+* Qualified reference temperature system consisting of a sensor and a meter with a display
+* Recirculating temperature controller with a range of 20degC to 60degC
+* 500-milliliter jacketed beaker connected to the temperature controller via flexible tubing
+* Magnetic stir bar and stir plate
+* Reduced organic (RO) water
+* Laboratory stand with support arm and clips
+* New sensor to callibrate and a compatible reference meter
+* Calibration tag
 
-At a minimum, a concept includes the following components.
-
-* A title, phrased as a gerund or question.
-* One or more body paragraphs.
+Procedure
+****************
+#. Set up the test station.
+ #. Place about 300 milliliters of RO water and the stir bar into the beaker.
 
 Complex concepts may contain 2 or more subsections.
 
@@ -55,3 +61,4 @@ Intro sentence.
 Following the steps, you should add the result and any follow-up tasks needed.
 
 Typically, each topic must contain the project includes file.
+
