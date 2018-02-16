@@ -3,7 +3,7 @@
 |HKC|
 ===================
 .. |headshot| replace:: headshot.jpg
-.. image:: headshot
+.. image:: |headshot| 
   :width: 200
   :alt: Headshot
 
