@@ -14,7 +14,9 @@ Work Experience
 ===============
 
 * **Hollister Staffing** - 
+
 * *Recruiting Assistant*
+
     * January 2018 - Present
 * **Forest Foundation** - *Communications Intern*
     * May 2016 - August 2016
