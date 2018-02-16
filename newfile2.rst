@@ -7,7 +7,7 @@
   :alt: Headshot
   
 Zoos with Red Pandas
- =====================
+=====================
 
 #. Roger Williams Park Zoo
 #. Capron Park Zoo
