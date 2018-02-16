@@ -2,7 +2,7 @@
 
 |HKC|
 ===================
-.. image:: https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/03d/265/0084109.jpg
+.. image:: headshot.jpg
   :width: 200
   :alt: Headshot
 
