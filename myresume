@@ -9,17 +9,19 @@ http://www.musicboxpete.com/
 :widths: 25 25 50
 :header-rows: 1
 
-* - Qualities heading row 1, column 1
-  - Dependable, creative problem solver with excellent time management skills row 1, column 2
-  - Both detail and big picture oriented. Outstanding writing and interpersonal communication skills row 1, column 3
+.. list-table::
+   :widths: 25 25 50
+   :header-rows: 1
 
-* - Technical Proficiencies heading row 2, column 1
-  - Microsoft Word row 2, column 2
-  - Excel row 2, column 3
-  
-* - Other Skills heading row 3, column 1
-  - Proficient in Blogger and WordPress. row 3, column 2
-  - Experienced with Wix and various social media platforms. row 3 column 3
+   * - *Qualities*
+     - *Proficiencies*
+     - *Other Skills*
+   * - Dependable
+     - Microsoft Word
+     - Blogger
+   * - Personable
+     - Excel
+     - WordPress
 
 
 Experience
