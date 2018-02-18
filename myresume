@@ -1,5 +1,5 @@
 Peter Amara
-***********
+###########
 http://www.musicboxpete.com/
 
 **Profile**
@@ -23,7 +23,7 @@ http://www.musicboxpete.com/
 
 
 Experience
-##########
+**********
 
 *Application Processor via Total Clerical Services, Waltham, MA*
 **Liaison International**
@@ -57,3 +57,31 @@ Experience
 * Marked respondents' answers using Microsoft Excel
 * Ensured the quality and timely completion of coding assignments
 
+*Skills*
+
+#. Creative problem solver with excellent time management skills.
+#. Both detail and big picture oriented.
+#. Outstanding writing and interpersonal communication skills.
+#. Dependable and personable.
+
+*Proficiencies*
+
+* Microscoft Office
+* Google Docs
+* Numbers
+* WordPress
+
+..code-block:: HTML
+
+<html>
+<head/>
+<body>
+
+</body>
+</html>
+
+.. |Skills| replace: Skills
+
+"Abilities"
+
+.. only::  
