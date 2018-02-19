@@ -52,7 +52,7 @@ Now, you’ve successfully published your first blog post! Once it’s up, it’
 
 .. |Blog| replace:: Sites
 
-.. only:: End Users
+.. only:: 
 
 .. note:: Some blogs may appear differently on other computers due to larger screen sizes. Please adjust your site accordingly to match the desired screen dimensions.
 
@@ -60,9 +60,4 @@ Now, you’ve successfully published your first blog post! Once it’s up, it’
 
 .. code-block:: HTML
 
-  <html>
-     <head/>
-     <body>
-
-     </body>
-  </html>
+    <name>Peter</name>
