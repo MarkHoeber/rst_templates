@@ -45,3 +45,20 @@ Begin typing your content into the title and body. Once you've finished, you can
 Once you’ve finished typing your post and everything is all set, click on the blue Publish Post button on the right hand side of the screen. You can also choose to schedule the post to publish at a later time by clicking on the upside down triangle menu next to the Publish Post button on the right.
 
 Now, you’ve successfully published your first blog post! Once it’s up, it’s a good idea to post a link to the article on social media sites such as Facebook, Twitter, and Instagram. This will allow readers to find your blog and check out the post that you’ve just published. It also gives readers the chance to check out some of the other work you’ve created as well. 
+
+.. |Blog| replace:: Sites
+
+.. only:: End Users
+
+.. note:: Some blogs may appear differently on other computers due to larger screen sizes. Please adjust your site accordingly to match the desired screen dimensions.
+
+.. caution:: Always make sure that ypour site only has content that you wish to make public. Please don't post any personal information that you don't wish to put out there for everyone to see.
+
+.. code-block:: HTML
+
+  <html>
+     <head/>
+     <body>
+
+     </body>
+  </html>
