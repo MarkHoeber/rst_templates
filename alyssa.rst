@@ -41,3 +41,11 @@ Work Experience
    * - UMass
      - BS
      - Nutrition
+
+#. Step one.
+
+   Text under step one.
+
+#. Step two.
+
+#. Step three.
