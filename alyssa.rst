@@ -54,4 +54,4 @@ Schooling History
 
 #. College:
 
-   UMass Amherst - Two degrees - BA & BS
+   `UMass Amherst <https://www.umass.edu/>`_ - Two degrees - BA & BS
