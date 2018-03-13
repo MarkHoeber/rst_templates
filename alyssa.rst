@@ -28,6 +28,9 @@ Work Experience
 * **Dracut Recreation** - *Volleyball Referee*
     * March 2011 - May 2011
 
+Degree Table
+============
+
 .. list-table::
    :widths: 25 25 50
    :header-rows: 1
@@ -41,11 +44,14 @@ Work Experience
    * - UMass
      - BS
      - Nutrition
+     
+Schooling History
+=================
 
-#. Step one.
+#. High School:
 
-   Text under step one.
+   Dracut High School - Diploma
 
-#. Step two.
+#. College:
 
-#. Step three.
+   UMass Amherst - Two degrees - BA & BS
