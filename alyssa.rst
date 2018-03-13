@@ -55,3 +55,7 @@ Schooling History
 #. College:
 
    `UMass Amherst <https://www.umass.edu/>`_ - Two degrees - BA & BS
+   
+.. |TTTW| replace:: Tools and Technologies for Technical Writers
+
+"The name of this class is |TTTW|".
