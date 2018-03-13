@@ -1,3 +1,7 @@
+.. |ADR| replace:: Alyssa's Resume
+
+"The name of this document is |ADR|".
+
 Alyssa DiSabito
 ===============
 
@@ -56,6 +60,4 @@ Schooling History
 
    `UMass Amherst <https://www.umass.edu/>`_ - Two degrees - BA & BS
    
-.. |TTTW| replace:: Tools and Technologies for Technical Writers
 
-"The name of this class is |TTTW|".
