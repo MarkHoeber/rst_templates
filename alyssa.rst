@@ -61,3 +61,10 @@ Schooling History
    `UMass Amherst <https://www.umass.edu/>`_ - Two degrees - BA & BS
    
 
+.. only:: Administrators
+
+  This paragraph will be shown only in the Administrator's Guide.
+
+.. only:: End Users
+
+  This paragraph will be shown only in the User's Guide.
