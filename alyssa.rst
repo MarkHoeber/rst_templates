@@ -13,10 +13,7 @@ Education
 Work Experience
 ===============
 
-* **Hollister Staffing** - 
-
-* *Recruiting Assistant*
-
+* **Hollister Staffing** - *Recruiting Assistant*
     * January 2018 - Present
 * **Forest Foundation** - *Communications Intern*
     * May 2016 - August 2016
@@ -35,12 +32,12 @@ Work Experience
    :widths: 25 25 50
    :header-rows: 1
 
-   * - Heading row 1, column 1
-     - Heading row 1, column 2
-     - Heading row 1, column 3
-   * - Row 2, column 1
-     - Row 2, column 2
-     - Row 2, column 3
-   * - Row 3, column 1
-     - Row 3, column 2
-     - Row 3, column 3
+   * - School
+     - Degree
+     - Major
+   * - UMass
+     - BA
+     - English
+   * - UMass
+     - BS
+     - Nutrition
