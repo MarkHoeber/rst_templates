@@ -60,6 +60,6 @@ Schooling History
 
    `UMass Amherst <https://www.umass.edu/>`_ - Two degrees - BA & BS
    
-.. image:: alyssa60794/rst_templates/umass.jpg
+.. image:: src/umass.jpg
   :width: 400
   :alt: An Image of UMass Amherst's Campus
