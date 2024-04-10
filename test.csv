@@ -1,5 +1,0 @@
-active,allowMultipleInCart,amountOffInCents,code,appliesToUsers,maxRedemptions,percentOff,redeemBy
-TRUE,FALSE,"$1,404 ",EXAMPLECODE0,,1,,
-TRUE,TRUE,"$1,404 ",EXAMPLECODE1,,1,,
-FALSE,TRUE,"$1,404 ",EXAMPLECODE2,,1,,
-TRUE,TRUE,"$1,404 ",EXAMPLECODE3,,1,,
