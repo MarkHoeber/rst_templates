@@ -1,0 +1,129 @@
+
+##################################
+Health Care Reform in America
+##################################
+
+.. contents:: Table of Contents
+
+Introduction
+**********************
+
+This paper outlines the current health care system in the United States and proposed how to reform health care.
+
+.. note::
+   Totally made up stuff in this paper!
+
+.. danger::
+  Don't take this paper seriously!
+
+.. caution::
+   Reading this is harmful to your eyes!
+
+
+Current System
+**********************
+
+Healthcare is available to US citizens is the following ways:
+
++------------+------------+-----------+ 
+| Ways       | Coverage   | Notes     | 
++============+============+===========+ 
+| Employeer  |280 million |Families   |
+|            |            |and others | 
++------------+------------+-----------+ 
+|ACA exchange|20 million  |           | 
++------------+------------+-----------+ 
+| Medicare   | unknown    |- retirees | 
++------------+            |- poor     | 
+|Medicaid    |            |- children | 
++------------+------------+-----------+
+
+
+
+A similar way to format the above table is:
+
+
+.. list-table:: Health care options!
+   :widths: 15 10 30
+   :header-rows: 1
+
+   * - Way
+     - Coverage
+     - Notes
+   * - Employeer
+     - 280 million
+     - 
+   * - Medicare
+     - unknown
+     - Retirees
+   * - Medicaid
+     - unknown
+     - Children and poor
+
+
+
+If a citizen does not get healthcare though one of the above, they do not have healthcare.
+
+Current Challenges
+*********************
+
+The current challenges to health care are:
+
+#. Affordability
+#. Accessibility
+#. Comprehensive care
+#. Accountability
+
+Same list but bulleted:
+
+* Affordability
+* Accessibility
+* Comprehensive care
+* Accountability
+
+
+Code Blocks
+******************************
+
+.. code-block:: HTML
+
+  <html>
+    <head>Hello World
+    </head>
+    <body>
+    Say hello to the world!
+    </body>
+    </html>
+
+
+Here is another code block:
+
+.. code:: python
+
+  def my_function():
+      "just a test"
+      print 8/2
+
+
+
+
+External Link to Website
+***************************
+
+To visit the CNN Website, type http://cnn.com.
+
+Replacing Text with a Variable
+***********************************
+
+.. |HRIA| replace:: *Healthcare Reform in America*
+
+"The name of this paper is |HRIA|".
+
+Images
+******************
+
+
+.. image:: /jellyfish.jpg
+   :width: 400
+   :alt: Jellyfish
+

@@ -1,0 +1,62 @@
+Catherine M. Ryan
+41 Birch Drive
+Sterling, MA 01564
+978-422-9982
+cathieryan@comcast.net
+
+
+
+OBJECTIVE:
+
+A position technical writer in a software company.
+
+QUALIFICATIONS:
+
+Over 20 years of technical experience as a writer and software engineer.
+Proven ability to meet project deadlines.
+Ability to make a contribution in a short amount of time.
+
+TECHNICAL
+KNOWLEDGE:
+
+MS Word and Framemaker.
+
+EXPERIENCE:
+
+11/97 to 11/98
+Banyan Systems, Westborough, MA. Principal Technical Writer  
+
+Developed new documentation for an Intranet software application. Produced online help and technical manual. Created documentation for mail systems.  Developed schedules, documentation plan and delivered on-time documentation.  Worked with engineering managers and software engineers to keep informed of software and schedule changes.
+
+10/95 to 10/97
+Sykes Enterprises, Incorporated, Lowell, MA. Principal Technical Writer.
+
+Wrote the first version of the DECmessageQ Guide to MQSeries Services by talking with engineers and reading functional specifications, C code, and header files.  Revised the DECmessageQ Installation and Configuration Guide for OS/2.  Tested the installation against the documentation.  Produced the necessary screen captures. Revised parts of the DECmessageQ Client Guide.
+
+4/94 to 7/95
+Digital Equipment Corporation, Information Design and Consulting, Littleton, MA.  Principal Technical Writer (Outsourced to Sykes Enterprises, Incorporated, January 1995.)
+
+Revised the Network Programming Reference for both the Windows and Windows 95 platforms.  Used Word and DOC-to-HELP.  Wrote the DECnet Users Guide for Windows.  Trained other writers on the use of PCMS to manage document source files from a PC.
+ 
+12/89 to 3/94
+Digital Equipment Corporation, Information Design and Consulting, Nashua, NH.  Senior Technical Writer.
+
+Wrote and revised DEC Ada Developing Ada Programs for RISC ULTRIX, DEC OSF/1 and OpenVMS.  Created online help and manual reference pages for each platform.  Tested all examples in the documentation.  Wrote release notes and installation guides.  Wrote the DEC Ada Technical Summary and DEC Ada Compatibility Guide which were used as marketing tools.  For the DEC Ada release on OSF/1, acted as documentation project leader.  Wrote and coordinated project plans with engineering, editing, and production groups.
+
+9/87 to 11/89
+Digital Equipment Corporation, Technical Information Services, Marlboro, MA.  Senior Software Engineer
+
+Introduced state-of-the-art technology for managing a corporate part and product database.  Wrote the project plan and functional specification. Researched various software applications.  Interviewed business managers, users, and software engineers to write application evaluations.  
+Designed and developed prototype using LISP and Knowledge Craft.  Wrote technical paper on intelligent user interfaces.
+
+EDUCATION:
+
+Lesley College, Cambridge, MA.  BS in Management. November 1990.
+
+REFERENCES:
+
+Available upon request.
+
+
+
+
